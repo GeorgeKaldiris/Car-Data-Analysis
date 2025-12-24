@@ -1,0 +1,2 @@
+Project in AI Data Analyst Bootcamp from workearly.gr. 
+Analyzing and visualizing a dataset that contains information about various car models, such as miles per gallon (mpg), number of cylinders, engine displacement, horsepower, weight, acceleration, model year, and country of origin. Performing basic exploratory data analysis and creating a scatter plot showing the relationship between vehicle weight and miles per gallon (mpg).
